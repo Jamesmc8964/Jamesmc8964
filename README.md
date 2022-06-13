@@ -10,3 +10,4 @@
 I want to learn how to code websites better.
 ##Why learning CS is important to me.
 So I can understand computers more.
+![alt text](tinyurl.com/4fsnnsy7)
